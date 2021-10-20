@@ -1,0 +1,16 @@
+Package: foofactors
+Title: This package is a trial to make me understand the classical structure of a package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Salomé", "Bourg", , "salome.bourg@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: I am learning how to do a package and apparently I should write some detailed infos in here. So Here I am, already regretting my litterature review process
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    forcats
